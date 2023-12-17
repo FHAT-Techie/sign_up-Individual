@@ -22,18 +22,19 @@ margin-block:20px 10px ;
   @media (max-width: 768px) {
         body{
             display: flex;
-            justify-content: center;
+            /* justify-content: center; */
             width: 100%;
         }
     main{
-        /* width: 100%; */
-        padding-block-start:32px;
+        width: 100%;
+        padding-block-start:24px;
         /* padding-inline: 24px; */
-        gap: 24px;
+        /* gap: 24px; */
         display: flex;
         flex-direction: column;
         /* justify-content: center; */
         align-items: center;
+        padding-inline-start: 16px;
     }
     header{
         display: flex;
@@ -69,7 +70,7 @@ height: fit-content;
 /* margin-inline-start: 16px; */
 padding: 16px 16px 16px 16px;
 display: flex;
-justify-content: center;
+/* justify-content: center; */
 }
 section form{
     display: block;
