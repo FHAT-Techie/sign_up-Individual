@@ -1,0 +1,13 @@
+@media  (max-width: 991px) {
+ main{
+   flex-direction: column;
+   padding-block-start: 32px;
+   gap: 50px;
+}
+header{
+    top : 16px
+}
+header h1 {
+margin-block:20px 10px ;
+}
+}
