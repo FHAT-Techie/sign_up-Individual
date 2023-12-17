@@ -26,7 +26,7 @@ margin-block:20px 10px ;
             width: 100%;
         }
     main{
-        width: 100%;
+        /* width: 100%; */
         padding-block-start:32px;
         /* padding-inline: 24px; */
         gap: 24px;
